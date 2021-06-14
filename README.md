@@ -27,3 +27,4 @@ Optional Parameters (default):
 --showpermissions (False)/True
 ```
 
+![screenshotcropped](https://user-images.githubusercontent.com/63032888/121852572-88fe4480-cca4-11eb-9590-a542e1075fc3.jpg)
