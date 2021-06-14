@@ -20,3 +20,10 @@ Optional Parameters (default):
 
 
 ## List-ChromeExtensions.py
+
+Optional Parameters (default):
+```
+--showdefaults (False)/True
+--showpermissions (False)/True
+```
+
