@@ -1,7 +1,7 @@
 # List-ChromeExtensions
 Powershell script for Windows/Python script for Mac
 
-A while back I started investigating malicious Chrome extensions and had no easy way to translate the 32 letter extension codes into what extensions were actually installed. I looked around but couldn't find anything useful on the Internet. So I wrote a few scripts to automate the task and pull out relevant attributes to help with investigations. Hopefully this helps some other incident responders. I've found it useful in conjunction with our SOAR platform and Crowdstrike's Real Time Response.
+A while back I started investigating malicious Chrome extensions and had no easy way to translate the 32 letter extension codes into what extensions were actually installed. I looked around but couldn't find anything useful on the Internet. So I wrote a few scripts to automate the task and pull out relevant attributes to help with investigations. Hopefully this helps some other incident responders. I've found it useful in conjunction with a SOAR platform and Crowdstrike's Real Time Response.
 
 ## List-ChromeExtensions.ps1
 
